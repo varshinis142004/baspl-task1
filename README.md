@@ -1,7 +1,10 @@
-# BASPL - Basic Authentication System with Python and JavaScript
-
+# BASPL - TASK1:Login Screen
 This project is a simple user authentication system featuring user registration and login. The backend is built with Python and Flask, while the frontend uses vanilla JavaScript, HTML, and CSS.
-
+Description: Design and integrate a secure frontend login page with validation and error messages.
+Acceptance Criteria:
+- Invalid inputs trigger clear validation errors.
+- Successful login redirects user to dashboard.
+  
 ## Project Structure
 
 The repository is organized into two main directories:
